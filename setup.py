@@ -31,7 +31,7 @@ setup(
     ],
     keywords="remove, background, u2net",
     packages=["rembg"],
-    python_requires="~=3.9.0",
+    python_requires=">=3.9.0",
     install_requires=requireds,
     entry_points={
         "console_scripts": [
